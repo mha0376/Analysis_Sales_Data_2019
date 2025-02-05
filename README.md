@@ -1,3 +1,6 @@
+![000](https://github.com/user-attachments/assets/475eb0a6-0af4-4d4a-9cea-9ee124b9dd40)
+
+
 # Analysis_Sales_Data_2019
 
 This project analyzes sales data from 2019 to identify trends and insights. While the original repository lacked a description, this README provides documentation to facilitate understanding and use.
