@@ -1,5 +1,4 @@
-![000](https://github.com/user-attachments/assets/475eb0a6-0af4-4d4a-9cea-9ee124b9dd40)
-
+![image (17)](https://github.com/user-attachments/assets/63955164-efd1-4856-a99a-03c7e77150eb)
 
 # Analysis_Sales_Data_2019
 
